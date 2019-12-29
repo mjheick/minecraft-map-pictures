@@ -2,7 +2,7 @@
 
 Creating near-photo-realistic images in minecraft by using maps.
 
-For use with Minecraft 1.14.\*
+For use with Minecraft 1.14.\* and later
 
 # How to use
 
@@ -23,12 +23,14 @@ Quick rundown of a datapack. Anything provided in quotes should not use the quot
 2. Enter your datapacks folder
 3. Create a folder, preferrably "lw". Enter that folder
 4. Create a "pack.mcmeta" file in this. Make the contents be the following
+
     {
     	"pack": {
     		"pack_format": 4,
     		"description": "Stuff"
 	    }
     }
+
 5. Create a "data" folder in the "lw" folder. Enter that folder
 6. Create a "lw" folder in the "data" folder. Enter that folder
 7. Create a "functions" folder in the "lw" folder. Enter that folder (repetitive, sure)
